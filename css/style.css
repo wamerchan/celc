@@ -532,6 +532,29 @@ a:focus {
   color: #323559;
 }
 
+.download_section .btn-3 {
+  display: inline-block;
+  color: #fefdfc;
+  border-radius: 0;
+}
+
+.download_section .btn-3:hover {
+  color: #c4ddf5;
+}
+
+.btn-4 {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 0;
+}
+
+.btn-4:hover {
+  color: #c4ddf5;
+}
+
+
 .download_section .main-img-box {
   display: -webkit-box;
   display: -ms-flexbox;
